@@ -1,0 +1,12 @@
+{
+	"name": "pyokonin",
+	"version": "1.0.0",
+	"description": "First test bot",
+	"main": "bot.js",
+	"author": "asyu00",
+	"dependencies": {
+		"discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+		"random-puppy": "^1.1.0",
+		"winston": "^3.1.0"
+	}
+}
